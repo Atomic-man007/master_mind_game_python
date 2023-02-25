@@ -11,8 +11,8 @@
 **How to Play**
 To play the game, follow these steps:
 
-Clone the repository to your local machine.
-
+First Clone the repository to your local machine (https://github.com/Atomic-man007/master_mind_game_python.git).
+ 
 * Navigate to the *master_mind_game_python* directory.
 * Run the `mastermind.py` file in the command line: python `mastermind.py`
 * The computer will generate a *random code* and prompt you to enter your guess.
